@@ -1,6 +1,10 @@
 <img width="784" height="1168" alt="image-4" src="https://github.com/user-attachments/assets/36429a39-df76-4469-a87c-ba4d141fcbd8" />
 <img width="1168" height="784" alt="image-3" src="https://github.com/user-attachments/assets/4e861b7b-54de-4869-bfe1-d1971c03b097" />
-
+<img width="1168" height="784" alt="image-2" src="https://github.com/user-attachments/assets/113a7bf2-a186-4c47-a6c7-5defd50c252a" />
+<img width="3800" height="2726" alt="fig7_timeline" src="https://github.com/user-attachments/assets/c1fa1ba0-90b5-4101-9de6-68e90cf76314" />
+<img width="5995" height="5933" alt="DDIF_corner_plot_600dpi" src="https://github.com/user-attachments/assets/f6313720-57b9-4618-8e72-32d1b7c8b03d" />
+<img width="3160" height="3155" alt="fig6_mcmc" src="https://github.com/user-attachments/assets/7b37e5cf-62c9-4af0-9aaa-1e5967c76e39" />
+<img width="2798" height="1876" alt="fig5_pk_ratio" src="https://github.com/user-attachments/assets/44836a04-0a85-4006-8626-bc732ab5cad1" />
 # DDIF-Cosmology
 暴脹後雙標量場暗區動力學：\\ \LambdaCDM 的暴脹後有效場論延伸框架（DDIF）\\暗區內部幾何流形在三紅移區間的投影
 🎯暴脹後雙標量場暗區動力學：\LambdaCDM 的暴脹後有效場論延伸框架（DDIF）\\暗區內部幾何流形在三紅移區間的投影}
